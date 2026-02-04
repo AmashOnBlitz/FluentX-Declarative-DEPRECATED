@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Windows junk
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
