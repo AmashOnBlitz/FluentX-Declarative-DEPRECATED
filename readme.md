@@ -7,6 +7,6 @@ like Qt or OpenGL.
 > ⚠️ **Status:** Frozen Project (Deprecated)
 ---
 
-##⚠️ **INFO** This Is Now Nothing More Than Just An Idea For Future FluentX Imperative Library Anyone Can Take Ideas From Here
+##⚠️ **INFO** This Is Now Nothing More Than Just An Idea For Future FluentX Imperative Library, Anyone Can Take Ideas From Here
 
 ---
