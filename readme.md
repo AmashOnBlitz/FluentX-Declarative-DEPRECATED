@@ -1,12 +1,16 @@
-﻿# FluentX Declarative
+# FluentX Declarative
 
-FluentX Declarative is a **modern C++ fluent-style UI framework** for building
-**lightweight, native Windows applications** without heavy dependencies
-like Qt or OpenGL.
+**FluentX Declarative** is a **concept-level, modern C++ fluent-style UI framework**
+aimed at building **lightweight, native Windows applications**  
+— without heavyweight stacks like Qt, OpenGL, or bloated runtimes.
 
-> ⚠️ **Status:** Frozen Project (Deprecated)
----
-
-##⚠️ **INFO** This Is Now Nothing More Than Just An Idea For Future FluentX Imperative Library, Anyone Can Take Ideas From Here
+> ⚠️ **Status:** Frozen / Deprecated
 
 ---
+
+## ℹ️ Note
+
+This project now exists purely as an **idea archive** and **design reference**  
+for the upcoming **FluentX Imperative** library.
+
+Feel free to explore, reuse concepts, or evolve the ideas further.
